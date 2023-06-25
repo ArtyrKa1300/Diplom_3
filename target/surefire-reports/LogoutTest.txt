@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: LogoutTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.118 s <<< FAILURE! - in LogoutTest
+checkLogOutFromProfile(LogoutTest)  Time elapsed: 8.114 s  <<< FAILURE!
+com.codeborne.selenide.ex.ElementShould: 
+Element should hidden {By.xpath: //h2[text()='¬ход']}
+Element: '<h2>¬ход</h2>'
+Screenshot: file:/C:/Users/Artyr/IdeaProjects/Diplom_3/build/reports/tests/1687688004104.2.png
+Page source: file:/C:/Users/Artyr/IdeaProjects/Diplom_3/build/reports/tests/1687688004104.2.html
+Timeout: 4 s.
+	at LogoutTest.setUp(LogoutTest.java:35)
+
